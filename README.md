@@ -32,12 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhu2606&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
----
-
 ## 🎯 2026 Goals
 
 - [ ] Complete a Data Science certification (Google / IBM / Andrew Ng)
